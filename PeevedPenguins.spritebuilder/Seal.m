@@ -8,7 +8,7 @@
 
 #import "Seal.h"
 
-/*@implementation Seal
+@implementation Seal
 
 - (id)init {
     self = [super init];
@@ -18,6 +18,6 @@
     }
     
     return self;
-}*/
+}
 
 @end
